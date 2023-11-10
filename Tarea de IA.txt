@@ -1,0 +1,17 @@
+La regresión lineal y los árboles de decisión son dos estrategias populares en el campo del aprendizaje automático, utilizadas para modelar y predecir relaciones entre variables. A continuación, se destacan sus principales características:
+
+### Regresión Lineal:
+La regresión lineal es un enfoque clásico que busca modelar la relación entre una variable dependiente y una o más variables independientes mediante una línea recta. Algunas de sus características clave incluyen:
+
+- **Modelo Simple:** Se basa en la suposición de una relación lineal entre las variables.
+- **Interpretación Clara:** Permite interpretar de forma clara cómo cada variable independiente afecta a la variable dependiente.
+- **Asunciones Importantes:** Requiere que las variables independientes estén linealmente relacionadas con la variable dependiente y que no exista multicolinealidad entre ellas.
+- **Sensibilidad a Outliers:** Puede ser sensible a valores atípicos en los datos.
+
+### Árboles de Decisión:
+Los árboles de decisión son modelos de aprendizaje automático que utilizan un enfoque de estructura de árbol para representar decisiones y sus posibles consecuencias. Algunas de sus características clave incluyen:
+
+- **Modelo No Paramétrico:** Los árboles de decisión no hacen suposiciones específicas sobre la distribución de los datos.
+- **Adaptabilidad:** Pueden manejar variables categóricas y numéricas, así como conjuntos de datos no lineales.
+- **Interpretabilidad:** Los árboles de decisión pueden ser interpretados visualmente, lo que los hace útiles para entender el proceso de toma de decisiones.
+- **Sensibilidad al Overfitting:** Pueden sufrir de sobreajuste en conjuntos de datos más complejos, lo que puede llevar a un rendimiento deficiente en datos no vistos.
